@@ -1,5 +1,6 @@
 ///22.Write a program that accepts three numbers from the user and swaps their values such that the value of the first number goes to the second, the second goes to the third, and the third goes to the first.
-
+#include<studio.h>
+#include<conio.h>
 int main()
 {
     int  No1,No2,No3,temp;
